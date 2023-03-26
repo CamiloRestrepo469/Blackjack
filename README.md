@@ -1,7 +1,7 @@
 
 <br>
 <hr>
-<h1>Blackjack</h1>
+<h1>#Blackjack</h1>
 <hr>
 <p>
     con los recursos de de UDEMI se hace este repo para practicas en js
